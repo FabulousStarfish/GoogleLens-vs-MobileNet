@@ -49,3 +49,14 @@ body{
   body::-webkit-scrollbar-track {
     background: #da8d2d;
   }
+h5{
+  font-size: 20px;
+}
+#result{
+  background:#2a0b32;
+  padding: 15px;
+  font-size: 25px;
+  width: 80%;
+  color: white;  
+  bottom: 10px;
+}
